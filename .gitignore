@@ -1,1 +1,3 @@
 !.gitignore
+_pycache_
+.myapp.py.swp
